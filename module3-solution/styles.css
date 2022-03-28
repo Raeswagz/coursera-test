@@ -1,0 +1,59 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #ffad00ff;
+  font-family: sans-serif;
+}
+
+/** HEADER **/
+
+
+.container-fluid{
+  padding-right:  0px;
+  padding-left: 0px;
+}
+
+
+.navbar-brand{ /* brand name */
+  font-family: serif;
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: auto;
+  margin-bottom: 10px;
+} 
+
+
+.navbar-nav{
+   background-color: #0b2817ff;
+   width: 100%;
+ }
+
+.nav-item{
+  text-align: center;
+}
+
+hr{
+  margin: 0px;
+}
+
+/* END HEADER */
+
+/* HOME PAGE */
+h2{
+  margin-top: 10px;
+}
+
+
+#first-content{
+background-color: #0b2817ff;
+height: 1200px;
+margin: 20px;
+position: relative;
+}
+
+h3{
+  padding-top: 10px;
+}
